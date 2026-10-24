@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EVotingSystem.Api/EVotingSystem.Api.csproj" />
+  <Project Path="EVotingSystem.Core/EVotingSystem.Core.csproj" />
+  <Project Path="EVotingSystem.Desktop/EVotingSystem.Desktop.csproj" />
+  <Project Path="EVotingSystem.Tests/EVotingSystem.Tests.csproj" />
+  <Project Path="WindowsFormsApplication1/WindowsFormsApplication1/WindowsFormsApplication1.csproj" />
+</Solution>

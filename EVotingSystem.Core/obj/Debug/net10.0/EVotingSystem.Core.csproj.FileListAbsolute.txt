@@ -1,0 +1,14 @@
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\bin\Debug\net10.0\EVotingSystem.Core.deps.json
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\bin\Debug\net10.0\EVotingSystem.Core.runtimeconfig.json
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\bin\Debug\net10.0\EVotingSystem.Core.dll
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\bin\Debug\net10.0\EVotingSystem.Core.pdb
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\EVotingSystem.Core.csproj.AssemblyReference.cache
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\EVotingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\EVotingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\EVotingSystem.Core.AssemblyInfo.cs
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\EVotingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\EVotingSystem.Core.dll
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\refint\EVotingSystem.Core.dll
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\EVotingSystem.Core.pdb
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\EVotingSystem.Core.genruntimeconfig.cache
+C:\Users\KEVIN\Desktop\EVotingSystem\EVotingSystem.Core\obj\Debug\net10.0\ref\EVotingSystem.Core.dll
